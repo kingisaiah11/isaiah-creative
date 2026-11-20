@@ -192,6 +192,7 @@ window.portfolio = {
     {
       "title": "How to Hide Outlines and Names in Valorant",
       "id": "1Q5vYk2NnAtU8f2Txv8F5TejRjsIZhN13",
+      "voiceover": true,
       "label": "Game tutorial",
       "theme": "objects",
       "poster": "assets/thumb-hd-valorant.png"
@@ -206,6 +207,7 @@ window.portfolio = {
     {
       "title": "How to Fix MATCHMAKING ERROR in Fortnite",
       "id": "1L0kWxwYl2MeuRjFNitVye4UE1iU2uuxW",
+      "voiceover": true,
       "label": "Game tutorial",
       "theme": "objects",
       "poster": "assets/thumb-hd-fortnite.png"
