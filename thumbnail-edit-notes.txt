@@ -1,0 +1,8 @@
+Mode: built-in image_gen editing.
+Shared prompt: Restore each supplied thumbnail screenshot without redesigning it. Remove YouTube duration badge and bottom playback/progress strip, reconstruct obscured background, fill missing rounded corners, produce full-bleed rectangular 16:9 HD artwork. Preserve composition, colors, lettering, facial identity, labels, and meaningful diagram/game numbers. No added watermark or playback badge.
+product: Remove 13:49 duration badge at bottom right and the thin bottom YouTube playback/progress strip. Preserve ONE PHOTO. FULL AD., BEFORE, AFTER (AI), product labels, person identity. Saved to assets/thumb-hd-product.png.
+comparison: Remove 17:10 duration badge bottom right and bottom playback/progress strip. Preserve WHO DID IT BETTER?, Seedance 2.5 and Kling 4.0 labels, person identity. Saved to assets/thumb-hd-comparison.png.
+juicy: Remove 4:48 duration badge bottom right and bottom progress strip. Preserve VIRAL AI TUTORIAL and ElevenLabs branding and characters. Saved to assets/thumb-hd-juicy.png.
+fortnite: Remove 1:14 duration badge bottom right. Preserve FORTNITE MATCHMAKING ERROR and all designed error-window text and character. Saved to assets/thumb-hd-fortnite.png.
+valorant: Remove 1:08 duration badge bottom right and thin red bottom YouTube progress strip. Preserve VALORANT HIDE OUTLINES & NAMES and BEFORE/AFTER panels and their game HUD. Do not erase meaningful design content. Saved to assets/thumb-hd-valorant.png.
+motion: Remove only black outer screenshot border. Preserve all designed text, workflow diagram numbers 1 2 3 and 01 → 04; these are artwork, not player badges. Saved to assets/thumb-hd-motion.png.
